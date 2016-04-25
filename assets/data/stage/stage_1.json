@@ -1,0 +1,50 @@
+{
+ "stageTime" : 999999.0,
+
+ "groundGenTime" : {
+	"max" : 999999.0, 
+	"min" : 999999.0
+ },
+ "groundGenType" : {
+	"max" : 5,
+	"min" : 4
+ },
+ "architectGenTime" : {
+	"max" : 999999.0,
+	"min" : 999999.0
+ },
+ "architectGenType" : {
+	"max" : 2,
+	"min" : 0
+ },
+ "zombieGenTime" : {
+	"max" : 999999.0,
+	"min" : 999999.0
+ },
+ "zombieGenType" : {
+	"max" : 0,
+	"min" : 0
+ },
+ "zombieEnerge" : {
+	"chargeEnerge" :4,
+	"maxEnerge" : 20
+ },
+ "zombieCoolTime" : {
+	"normalZCool" :99999999,
+	"fastZCool" : 99999999,
+	"throwerZCool" : 99999999,
+	"flyingZCool" : 99999999
+ },
+ "zombieOnArchitectNumber" : {
+	"max" : 3,
+	"min" : 1
+ },
+ "zombieOnArchitectType" : {
+	"max" : 1,
+	"min" : 0
+ },
+ "shopGenTime" : {
+	"max" : 999999.0,
+	"min" : 999999.0
+ }
+}
