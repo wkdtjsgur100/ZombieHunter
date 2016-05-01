@@ -1,29 +1,27 @@
-Á»ºñÇåÅÍ
+ì¢€ë¹„í—Œí„°
 
-- °ÔÀÓ ¼³Ä¡ URL(¾ËÆÄÅ×½ºÆ®)
+- ê°œìš”
+cocos2d-x game engine ê¸°ë°˜ íš¡ìŠ¤í¬ë¡¤ ê²Œìž„ 
 
-- °³¿ä
-cocos2d-x game engine ±â¹Ý È¾½ºÅ©·Ñ °ÔÀÓ 
+íŒ€ì›
 
-ÆÀ¿ø
+í”„ë¡œê·¸ëž˜ë¨¸(3ëª…)
+- ìž¥ì„ í˜, ê¹€ìž¬ê·¼, ê¹€ì„¸ì˜
 
-ÇÁ·Î±×·¡¸Ó(3¸í)
-- Àå¼±Çõ, ±èÀç±Ù, ±è¼¼¿µ
+ê·¸ëž˜í”½(2ëª…)
+- ìž¥ì˜ˆì§€(ì„œìš¸ì˜ˆëŒ€ ìž¬í•™ìƒ)
+- ê¹€í•˜ê²½(ì´! for Kakao UI/Effect ë””ìžì´ë„ˆ)
 
-±×·¡ÇÈ(2¸í)
-- Àå¿¹Áö(¼­¿ï¿¹´ë ÀçÇÐ»ý)
-- ±èÇÏ°æ(½÷! for Kakao UI/Effect µðÀÚÀÌ³Ê)
+ìŒí–¥(1ëª…)
+- ì´ì‹¤ìš´(ë©”ì´í”ŒìŠ¤í† ë¦¬/ë§ˆë¹„ë…¸ê¸°ì˜ì›…ì „/ì¹´íŠ¸ë¼ì´ë” ë“± ìŒí–¥ì œìž‘)
 
-À½Çâ(1¸í)
-- ÀÌ½Ç¿î(¸ÞÀÌÇÃ½ºÅä¸®/¸¶ºñ³ë±â¿µ¿õÀü/Ä«Æ®¶óÀÌ´õ µî À½ÇâÁ¦ÀÛ)
-
-![alt text](screenshots/concept.jpg "ÄÁ¼Á¾ÆÆ®")
-¡èÄÁ¼Á¾ÆÆ®
+![alt text](screenshots/concept.jpg "ì»¨ì…‰ì•„íŠ¸")
+â†‘ì»¨ì…‰ì•„íŠ¸
 
 
-![alt text](screenshots/1.png "½ºÅ©¸°¼¦")
+![alt text](screenshots/1.png "ìŠ¤í¬ë¦°ìƒ·")
 
-![alt text](screenshots/2.png "½ºÅ©¸°¼¦")
+![alt text](screenshots/2.png "ìŠ¤í¬ë¦°ìƒ·")
 
-![alt text](screenshots/3.png "½ºÅ©¸°¼¦")
-¡è°ÔÀÓ ½ºÅ©¸°¼¦
+![alt text](screenshots/3.png "ìŠ¤í¬ë¦°ìƒ·")
+â†‘ê²Œìž„ ìŠ¤í¬ë¦°ìƒ·
